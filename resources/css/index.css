@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  body {
+    background-image: url(".\resources\shinobi.jpg");
+    background-color: #cccccc;
+    text-align: center;
+   }
+  
+  
+  h1 {
+    text-align: center;
+    color: SeaGreen;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
